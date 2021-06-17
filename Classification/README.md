@@ -7,8 +7,9 @@ The following classification templates have been added:
 2. SVM
 3. k-Nearest Neighbours
 4. Kernel SVM
-5. Decision Tree Classification
-6. Random Forest Classification
+5. Naive Bayes
+6. Decision Tree Classification
+7. Random Forest Classification
 
 The first two are suitable for linear data. The rest are best used for non-linear datasets. Decision tree and Random forest are best for multidimensional
 non-linear datasets. 
